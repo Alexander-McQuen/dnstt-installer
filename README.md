@@ -27,7 +27,7 @@ dnstt (DNS Tunnel) is a software to tunnel internet traffic using DNS, making it
 Run this command on your Ubuntu server terminal:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/dnstt-installer/main/install_dnstt_server.sh -o install_dnstt_server.sh
+curl -fsSL https://raw.githubusercontent.com/Alexander-McQuen/dnstt-installer/main/install_dnstt_server.sh -o install_dnstt_server.sh
 ```
 
 ### Step 3: Run The Installer Script
